@@ -1,1 +1,1 @@
-# Chinese=Microsoft
+# Chinese-Microsoft
